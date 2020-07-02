@@ -3,7 +3,14 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-
+#displayMoment {
+  color: black;
+  font-size: 24px;
+  border: solid 2px black;
+  padding: 5px;
+  background-color: #dedede;
+  ;
+}
 textarea{
   background: transparent;
   border: none;
